@@ -150,10 +150,10 @@ QWEN_TTS_URL=http://127.0.0.1:8000/tts
 For example:
 
 ```env
-ELEVENLABS_API_KEY=sk_b50194d931d7022a24ed6a66520c95a205a5fcd7b04bf88b
+ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
 QWEN_TTS_URL=http://127.0.0.1:8001/tts
 HF_TTS_MODEL=tts-perennial/mymodel
-HF_TOKEN=hf_xxx
+HF_TOKEN=your_huggingface_token_here
 ```
 
 The previous Coqui XTTS server is no longer shipped with the repository
